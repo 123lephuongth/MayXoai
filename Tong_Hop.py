@@ -1,4 +1,4 @@
-import cv2 as cv //Thu git hub
+import cv2 as cv #Thu git hub
 import numpy as np
 from Source.Kich_Thuoc_Thu_Tu import *
 
